@@ -1,3 +1,5 @@
+> **Fork** de [ricardohsd/typecaster](https://github.com/ricardohsd/typecaster), branch `master`, a partir do commit [`08e635f`](https://github.com/ricardohsd/typecaster/commit/08e635fa06252eed9e507fcfc360e9f1a478c771). Mantido aqui para uso no projeto saúde.
+
 # Typecaster
 
 This gem was built for create text files based in fixed columns.
